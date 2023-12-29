@@ -1,5 +1,5 @@
 {
-  "spider":"http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
+  "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8ba7ff79221a3b1dd152646f48cd279c",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"name":"live","type":0,"url":"http://ftp6284928.host108.abeiyun.cn/live/live.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
