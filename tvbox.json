@@ -1,5 +1,6 @@
   {
   "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717391432471/fan.txt;md5;96be258292bdbcb1681ce99c900b00de","warningText":"💕fke分享的接口，永久完全免费，切勿付费购买💕",
+  //"spider": "https://raw.liucn.cc/box//fty.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b","warningText":"💕潇洒分享的接口，永久完全免费，切勿付费购买💕",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
